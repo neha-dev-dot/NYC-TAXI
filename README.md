@@ -1,4 +1,4 @@
-# NYC Taxi Data Engineering Pipeline 🚖📊
+# NYC Taxi Data Engineering  🚖📊
 
 ## 📝 Project Overview
 
