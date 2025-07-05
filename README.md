@@ -1,6 +1,6 @@
 # NYC Taxi Data Engineering  🚖📊
 
-## 📝 Project Overview
+## 📝 Project Overvie
 
 This project demonstrates a **real-time data engineering pipeline** using **Azure Data Factory**, **Databricks (PySpark)**, **Delta Lake**, and **Azure Data Lake Storage Gen2**.
 
